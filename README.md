@@ -4,19 +4,19 @@ This Repository contains all of the code pertaining to the API for the DawgTown 
 
 1) app/models : this contains all of the database models for the app. These databases are
 
-    *a) user - information about the users*
+    a) user - information about the users
   
-    *b) bones - information about the location (lat/long) of the bones and their value in the app
+    b) bones - information about the location (lat/long) of the bones and their value in the app
   
-    *c) companies - information about the companies that participate in the app
+    c) companies - information about the companies that participate in the app
   
-    *d) prizes - information about the prizes that may be redeemed with bones 
+    d) prizes - information about the prizes that may be redeemed with bones 
   
  Map Reduce DBs:
   
-    *e) User-bone - this database keeps track of which bones every active user has collected
+    e) User-bone - this database keeps track of which bones every active user has collected
   
-    *f) User-prizes - this database tracks the prizes owned by all users
+    f) User-prizes - this database tracks the prizes owned by all users
   
   
   
