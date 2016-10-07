@@ -14,9 +14,9 @@ This Repository contains all of the code pertaining to the API for the DawgTown 
   
  Map Reduce DBs:
   
-    e) User-bone - this database keeps track of which bones every active user has collected
+    e) User_bone - this database keeps track of which bones every active user has collected
   
-    f) User-prizes - this database tracks the prizes owned by all users
+    f) User_prizes - this database tracks the prizes owned by all users
   
   
   
