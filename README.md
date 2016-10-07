@@ -1,6 +1,6 @@
 # DawgTown
 
-This Repository contains all of the code pertaining to the API for the DawgTown API the structure is as follows
+This Repository contains all of the code pertaining to the DawgTown API. The structure is as follows
 
 1) app/models : this contains all of the database models for the app. These databases are
 
