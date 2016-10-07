@@ -4,7 +4,7 @@ This Repository contains all of the code pertaining to the API for the DawgTown 
 
 1) app/models : this contains all of the database models for the app. These databases are
 
-    *a) user - information about the users
+    *a) user - information about the users*
   
     *b) bones - information about the location (lat/long) of the bones and their value in the app
   
